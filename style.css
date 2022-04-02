@@ -1,0 +1,50 @@
+/* font family  */
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700;900&display=swap");
+
+body {
+  font-family: "Roboto", sans-serif;
+  padding: 0px;
+  margin: 0px;
+}
+
+/* .card-1 {
+  background-image: linear-gradient(to right, #2f81ed, #6fc5f3);
+  color: white;
+  border-radius: 15px;
+}
+.card-2 {
+  background-image: linear-gradient(to right, #0ec0c0, #84e3dd);
+  color: white;
+  border-radius: 15px;
+} */
+
+.nav a {
+  text-decoration: none;
+  color: #333b63;
+}
+
+a {
+  color: #333b63;
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: none;
+  color: #5aa76d;
+}
+
+ul {
+  list-style-type: none;
+}
+
+ul li {
+  padding: 0px 30px;
+  color: #333b63;
+}
+ul li:hover {
+  padding: 0px 30px;
+  color: #5aa76d;
+}
+
+.hero {
+  width: 100%;
+}
